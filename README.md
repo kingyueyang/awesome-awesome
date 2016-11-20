@@ -5,13 +5,13 @@ A curated list of awesome curated lists of many topics.
 - [Awesome Awesome](#awesome-awesome)
     - [Computer management](#computer-management)
     - [Data processing](#data-processing)
+    - [Editors](#editors)
     - [Front-end development](#front-end-development)
     - [Programming languages](#programming-languages)
     - [Sciences](#sciences)
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
     - [Web platforms](#web-platforms)
-    - [Editer](#editer)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -24,6 +24,12 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - Big data frameworks, resources and other awesomeness.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - Hadoop ecosystem resources.
+
+## Editors
+
+* [awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+* [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
 
 ## Front-end development
 
@@ -52,6 +58,7 @@ A curated list of awesome curated lists of many topics.
 * awesome-ruby - Ruby libraries, tools, frameworks and software
     - [@markets](https://github.com/markets/awesome-ruby)
     - [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
+* [awesome-rust](https://github.com/kud1ing/awesome-rust) - A curated list of Rust code and resources.
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
 * [awesome-swift](https://awesome-swift.zeef.com/robin.eggenkamp) - Swift documentation, projects, tutorials, updates, etc
 
@@ -62,6 +69,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-geography] - Not yet! Do it yourself!
 * [awesome-math] - Not yet! Do it yourself!
 * [awesome-physics] - Not yet! Do it yourself!
+* [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography and encryption resources.
 * [awesome-space](https://github.com/elburz/awesome-space) - Jobs, Media, Rockets, Research, and other Space-related Open Source resources.
 * [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) - (mostly) offline reference books on space technology, science and history of spaceflight.
 
@@ -82,11 +90,6 @@ A curated list of awesome curated lists of many topics.
 
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
-## Editer
-
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
-* [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
-
 ## Other
 
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
@@ -97,6 +100,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-opendata](https://github.com/emijrp/awesome-opendata) - A curated list of awesome opendata repositories.
 * [awesome-community](https://github.com/peterkokot/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups and communities
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
+* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 
 # Contributing
 
